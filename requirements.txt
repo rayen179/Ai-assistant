@@ -1,0 +1,7 @@
+opencv-python==4.10.0.84
+cvzone
+mediapipe
+streamlit
+numpy
+google-generativeai
+Pillow
